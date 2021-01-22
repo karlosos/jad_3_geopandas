@@ -144,3 +144,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+lab3/swidwie_dense_cloud_crop.las
+lab3/swidwie_dense_cloud_crop_barycenter_2.xyz
+lab3/swidwie_dense_cloud_crop_center_2.xyz
+lab3/las_grid_10cm_EPSG-32633
